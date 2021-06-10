@@ -4,7 +4,7 @@
 
 Clone the repository into a folder
 
-    git clone https://github.com/
+    git clone https://github.com/blackbelt797/blog-api
 
 Install NodeJS from this [LINK](https://nodejs.org/en/)
 
